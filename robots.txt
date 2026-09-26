@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://haminternationalbd.com/sitemap.xml
